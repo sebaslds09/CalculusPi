@@ -1,0 +1,9 @@
+This program calculate pi with Euler algorithm.
+This program was wrote to be compiled in GNU/Linux environment
+
+To RUN:
+
+1) Compile with your favourite compiler like GCC
+2) Run ./pi iterations
+
+Change iterations by a integer number. While bigger number bigger accuracy
